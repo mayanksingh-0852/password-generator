@@ -75,9 +75,6 @@ npm install
 npm run dev
 ```
 
-## 📸 Preview
-
-Generate strong and customizable passwords easily.
 
 ## 📌 Future Improvements
 
